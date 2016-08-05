@@ -1,0 +1,9 @@
+C:\Development\Utility\LogParser\LogParserClient\bin\Debug\LogParserClient.exe.config
+C:\Development\Utility\LogParser\LogParserClient\bin\Debug\LogParserClient.exe
+C:\Development\Utility\LogParser\LogParserClient\bin\Debug\LogParserClient.pdb
+C:\Development\Utility\LogParser\LogParserClient\obj\Debug\LogParserClient.csprojResolveAssemblyReference.cache
+C:\Development\Utility\LogParser\LogParserClient\obj\Debug\LogParserClient.Form1.resources
+C:\Development\Utility\LogParser\LogParserClient\obj\Debug\LogParserClient.Properties.Resources.resources
+C:\Development\Utility\LogParser\LogParserClient\obj\Debug\LogParserClient.csproj.GenerateResource.Cache
+C:\Development\Utility\LogParser\LogParserClient\obj\Debug\LogParserClient.exe
+C:\Development\Utility\LogParser\LogParserClient\obj\Debug\LogParserClient.pdb

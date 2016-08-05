@@ -1,0 +1,1 @@
+C:\Development\Utility\LogParser\LogParser\bin\Debug\LogParser.exe.config
